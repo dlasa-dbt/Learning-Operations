@@ -3,7 +3,6 @@
 ```yaml
 page title: 01-cover.md
 slide number: 01
-owner: dee
 last-updated: 2025-08-05
 root folder: training_internal
 folder path: curriculum_development >> instructional_design_initiatives 
