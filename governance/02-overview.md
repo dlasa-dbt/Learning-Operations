@@ -21,6 +21,6 @@ metrics:
 - Partners: 13 (need to update)
 
 
-**🖼️ Visuals** 
+### Visuals
   
 ![slide-02-overview](https://github.com/user-attachments/assets/5a0b9048-e220-4adb-9eb7-a1f2427af58d)
