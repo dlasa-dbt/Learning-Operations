@@ -16,8 +16,8 @@ metrics:
 
 ### Visuals
 
-![slide-03](https://github.com/user-attachments/assets/614a9410-080a-4e63-8fa1-fd4d10eee717)
 
 
 
 
+![slide-03](https://github.com/user-attachments/assets/bb057f1e-7a3a-415e-9c36-2cd5cde539ba)
