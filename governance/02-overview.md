@@ -3,8 +3,7 @@
 ```yaml
 page title: 02-overview.md
 slide number: 02
-owner: dee
-status: :needs update" 
+status: "needs update" 
 last-updated: 2025-08-00
 metrics:
   total learners:
