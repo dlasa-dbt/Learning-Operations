@@ -1,4 +1,4 @@
-# LMS Creatots
+# LMS Creators
 
 ```yaml
 page title: 02-creators.md
