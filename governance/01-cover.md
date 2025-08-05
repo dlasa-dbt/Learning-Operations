@@ -1,11 +1,11 @@
-# LMS Governance Cover
+# LMS Governance Plan
 
 ```yaml
-title:
+title: cover
 slide number: 01
 owner: dee
-last-updated:
-storage location:
+last-updated: 2025-08-05
+storage folder: instructional_design_initiatives 
 url: https://docs.google.com/presentation/d/12MUHWg6rtILQMD11Yj9VfeAi0HLyOW1RZyx6K8WRcMg/edit?usp=sharing
 tags: 
 ```
