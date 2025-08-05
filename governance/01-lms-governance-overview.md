@@ -3,9 +3,12 @@
 ## Overview
 
 **LMS Stats and Reach** 
-- insert
-- insert
-- insert
+- Total Learners:  
+- Assets in Production: 
+- Customer Sublicenses: 
+- Private Academies:
+- Partners: 
+
 
 **Report.** Refer to the [**Report Name**](insert link) for the latest stats. 
 
