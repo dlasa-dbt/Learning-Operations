@@ -6,12 +6,11 @@ slide number: 01
 owner: dee
 last-updated: 2025-08-05
 storage folder: instructional_design_initiatives 
-url: https://docs.google.com/presentation/d/12MUHWg6rtILQMD11Yj9VfeAi0HLyOW1RZyx6K8WRcMg/edit?usp=sharing
 tags: 
 ```
 **Links**
 - [FE Initiative:](https://www.notion.so/dbtlabs/LMS-Governance-FE-Scope-1eebb38ebda78021882df6e8eb8b57de?source=copy_link)
-- url: https://docs.google.com/presentation/d/12MUHWg6rtILQMD11Yj9VfeAi0HLyOW1RZyx6K8WRcMg/edit?usp=sharing
+- [LMS Governance Plan](url: https://docs.google.com/presentation/d/12MUHWg6rtILQMD11Yj9VfeAi0HLyOW1RZyx6K8WRcMg/edit?usp=sharing)
   
 
 **Visual.** LMS governance plan & templates screenshot.
