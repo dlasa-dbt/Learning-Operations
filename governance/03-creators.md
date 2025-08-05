@@ -8,8 +8,11 @@ last-updated: 2025-08-00
 metrics:
 ```
 ### LMS Creators
-- LMS Admins 
-
+- LMS admins: 
+- Client admins:
+- Client managers:
+- Content creators:
+- Client account admins:
 
 ### Visuals
 
