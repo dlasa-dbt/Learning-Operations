@@ -14,5 +14,3 @@
 
 **Visual.** Screenshot of Report.
 
-<figure><img src="image.jpg" alt=""><figcaption><p>cpation</p></figcaption></figure>
-
