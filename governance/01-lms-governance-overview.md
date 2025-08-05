@@ -2,7 +2,7 @@
 
 ## Overview
 
-**LMS Stats and Reach** 
+**LMS Platform Statistics and Reach** 
 - Total Learners:  
 - Assets in Production: 
 - Customer Sublicenses: 
