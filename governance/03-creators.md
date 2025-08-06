@@ -1,7 +1,7 @@
 # LMS Creators
 
 ```yaml
-page title: 02-creators.md
+page title: 03-creators.md
 slide number: 03
 status: "updated" ## other status values 
 last-updated: 2025-08-06
