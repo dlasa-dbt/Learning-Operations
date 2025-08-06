@@ -5,7 +5,7 @@ page title: 01-cover.md
 slide number: 01
 last-updated: 2025-08-05
 root folder: training_internal
-folder path: curriculum_development >> instructional_design_initiatives 
+folder path: training > training internal > learning_operations 
 ```
 ### Links
 - [FE Initiative](https://www.notion.so/dbtlabs/LMS-Governance-FE-Scope-1eebb38ebda78021882df6e8eb8b57de?source=copy_link)
