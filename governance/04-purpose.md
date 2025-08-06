@@ -18,3 +18,5 @@ Document governance strategy for portals and processes including:
 
 
 ### Visuals
+
+![04-purpose](https://github.com/user-attachments/assets/3cf67190-988a-4ed8-88dc-a2a2a8c06f74)
